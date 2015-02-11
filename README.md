@@ -1,7 +1,7 @@
 generator-simple-stylus
 ===============
 
-Simple Stylus & Gulp workflow Yeoman generator
+Simple Stylus & Gulp Yeoman generator
 
 
 Install Instructions

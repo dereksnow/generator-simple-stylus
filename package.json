@@ -1,13 +1,13 @@
 {
   "name": "generator-simple-stylus",
   "version": "0.0.1",
-  "description": "Simple Stylus & Gulp workflow Yeoman generator",
+  "description": "Simple Stylus and Gulp Yeoman generator",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "dereksnow/generator-simple-stylus",
   "author": {
     "name": "Derek Snow",
-    "email": "",
+    "email": "derek.snow@gmail.com",
     "url": "https://github.com/dereksnow"
   },
   "engines": {
