@@ -2,6 +2,7 @@ generator-simple-stylus
 ===============
 
 Simple Stylus & Gulp Yeoman generator
+Includes nib
 
 
 Install Instructions

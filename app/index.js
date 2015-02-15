@@ -14,7 +14,7 @@ var SimpleStylusGenerator = yeoman.generators.Base.extend({
 
     // Greet the user
     this.log(yosay(
-      'I provide stylus and gulpfile.js for development.'
+      'I provide stylus, nib and gulpfile.js for development.'
     ));
 
     var prompts = [{

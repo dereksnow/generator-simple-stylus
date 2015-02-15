@@ -1,9 +1,9 @@
 {
   "name": "<%= name %>",
-  "version": "0.0.1",
   "dependencies": {
     "gulp": "3.8.x",
     "gulp-stylus": "2.0.x",
     "browser-sync": "1.5.x",
+	  "nib": "1.0.x"
   }
 }
